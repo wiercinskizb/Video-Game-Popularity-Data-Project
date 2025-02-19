@@ -1,2 +1,13 @@
 # Video-Game-Popularity-Data-Project
-This is a data analysis project for GameCo targeted towards making recommendations. Data is fictitious and used for the purposes of Career Foundry's Data Analytics program
+## Project Summary
+- GameCo, wants to use data to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
+## Key Questions
+- Are certain types of games more popular than others?
+- What other publishers will likely be the main competitors in certain markets?
+- Have any games decreased or increased in popularity over time?
+- How have their sales figures varied between geographic regions over time?
+## Systems Used
+- Excel - Analysis
+- Power Point - Presentation
+## Data Overview
+- VGChartz - video game sales data set
